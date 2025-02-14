@@ -31,7 +31,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       body: Row(
         children: [
-          // Left Red Section
+          
           Expanded(
             child: Container(
               color: Colors.red,
@@ -39,7 +39,7 @@ class _LoginPageState extends State<LoginPage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Image.asset(
-                    'assets/logo.png', // Change this to your local image
+                    'assets/logo.png',
                     width: 200,
                   ),
                   const SizedBox(height: 20),
