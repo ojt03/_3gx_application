@@ -1,5 +1,5 @@
 import 'package:_3gx_application/backend/get_item_details.dart';
-import 'package:_3gx_application/backend/inventory_item.dart'; // Import the file where fetchItems is located
+
 import 'package:_3gx_application/main_screens/item_details.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart'; // Import Google Fonts
